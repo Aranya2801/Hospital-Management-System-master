@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" alt="HMS Logo" width="120" height="120"/>
+<img src="logo.png" alt="HMS Logo" width="120" height="120"/>
 
 # 🏥 MedCore HMS
 ### Advanced Hospital Management System
